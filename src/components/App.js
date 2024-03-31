@@ -43,7 +43,7 @@ const App = () => {
 
       <div className="row" id="children-wrapper">
         {["selection1", "selection2", "selection3"].map((key) => (
-          <Selection key={key} applyColor={applyColor} styles={{ background: nextBackground.background }} onClick={() => applyColor(background)} />
+          <Selection key={key} applyColor={applyColor} styles={{ background: nextBackground.background }} />
         ))}
       </div>
     </div>
