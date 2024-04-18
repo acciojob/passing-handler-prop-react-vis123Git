@@ -1,32 +1,32 @@
 .fix-box {
-    width: 250px;
-    height: 250px;
-    margin: 20px;
-    border: 1px white dotted;
-    border-radius: 5px;
-    cursor: pointer;
-    align-items: center;
-    text-align: center;
-    color: white;
-    font-size: 36px;
+  width: 250px;
+  height: 250px;
+  margin: 20px;
+  border: 1px white dotted;
+  border-radius: 5px;
+  cursor: pointer;
+  align-items: center;
+  text-align: center;
+  color: white;
+  font-size: 36px;
 }
 
-#master{
-    border-radius: 5px;
-    /* border: 2px white ridge; */
-    width: 100%;
-    align-items: center;
-    display: block
+#master {
+  border-radius: 5px;
+  /* border: 2px white ridge; */
+  width: 100%;
+  align-items: center;
+  display: block;
 }
 
-.subheading{
-    color: white;
-    text-align: center;
+.subheading {
+  color: white;
+  text-align: center;
 }
 
-#children-wrapper{
-    display: flex;
-    /* border: 2px solid red; */
-    align-items: center;
-    justify-content: center;
+#children-wrapper {
+  display: flex;
+  /* border: 2px solid red; */
+  align-items: center;
+  justify-content: center;
 }
